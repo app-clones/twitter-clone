@@ -1,3 +1,13 @@
 {
-    "cSpell.words": ["appbundle", "codesign", "libgtk", "Riverpod", "subosito"]
+    "cSpell.words": [
+        "appbundle",
+        "Appwrite",
+        "codesign",
+        "libgtk",
+        "notif",
+        "RGBO",
+        "Riverpod",
+        "subosito",
+        "svgs"
+    ]
 }
